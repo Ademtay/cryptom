@@ -1,2 +1,1 @@
-# cryptom
-Bu uygulama, kripto para yatırımcılarının ve takipçilerinin kripto paraları kolayca takip etmelerini, favori kripto paralarını kaydetmelerini ve detaylı bilgilere ulaşmalarını sağlayan modern ve kullanıcı dostu bir web uygulamasıdır.
+This folder contains entry points for features from [WHATWG / W3C](https://github.com/zloirock/core-js#web-standards) with dependencies.
